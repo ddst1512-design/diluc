@@ -1,0 +1,46 @@
+STATIC RESOURCE CHECKS: PASS
+39 assertions passed.
+Java compilation: NOT RUN (no Java/Javac/Gradle runtime in authoring sandbox).
+Minecraft launch / multiplayer / gameplay tests: NOT RUN.
+These static checks do not verify runtime behavior or compilation.
+
+Passed checks:
+- All 17 JSON/resource files parse
+- Mod metadata ID and target are correct
+- Official Gradle wrapper JAR is structurally valid
+- Gradle wrapper points to pinned version
+- Texture valid: models/armor/diluc_layer_1.png
+- Texture valid: models/armor/diluc_layer_2.png
+- Texture valid: entity/fireball.png
+- Texture valid: entity/phoenix_0.png
+- Texture valid: entity/phoenix_1.png
+- Texture valid: item/crimson_crest.png
+- Texture valid: item/diluc_coat.png
+- Texture valid: item/diluc_trousers.png
+- Texture valid: item/diluc_boots.png
+- Phoenix has two distinct flap frames
+- Model resolves texture: crimson_crest
+- Crafting pattern keys match: crimson_crest
+- Recipe unlock resolves: crimson_crest
+- Model resolves texture: diluc_coat
+- Crafting pattern keys match: diluc_coat
+- Recipe unlock resolves: diluc_coat
+- Model resolves texture: diluc_trousers
+- Crafting pattern keys match: diluc_trousers
+- Recipe unlock resolves: diluc_trousers
+- Model resolves texture: diluc_boots
+- Crafting pattern keys match: diluc_boots
+- Recipe unlock resolves: diluc_boots
+- Custom damage tag resolves: is_fire
+- Custom damage tag resolves: is_projectile
+- Exactly triple impact-damage constant
+- Five-cast charge and authoritative full-set validation
+- Strength I amplifier is zero
+- No client imports on common side: DilucArmor.java
+- No client imports on common side: Abilities.java
+- No client imports on common side: ModNetwork.java
+- No client imports on common side: FlameProjectile.java
+- Client entry point is distribution-restricted
+- No terrain explosion/fire-placement calls
+- Phoenix tracks already-hit targets
+- Projectile collision clips to walls

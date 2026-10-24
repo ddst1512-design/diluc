@@ -1,0 +1,23 @@
+{
+  "item.dilucarmor.crimson_crest": "Diluc's Crimson Crest",
+  "item.dilucarmor.diluc_coat": "Diluc's Dawn Coat",
+  "item.dilucarmor.diluc_trousers": "Diluc's Trousers",
+  "item.dilucarmor.diluc_boots": "Diluc's Riding Boots",
+  "entity.dilucarmor.searing_fireball": "Searing Fireball",
+  "entity.dilucarmor.dawn_phoenix": "Dawn Phoenix",
+  "key.categories.dilucarmor": "Diluc's Dawn Armor",
+  "key.dilucarmor.fireball": "Searing Fireball",
+  "key.dilucarmor.phoenix": "Dawn Phoenix (Ultimate)",
+  "message.dilucarmor.full_set": "Equip all four Diluc armor pieces to use your abilities.",
+  "message.dilucarmor.not_ready": "Dawn charge: %s/%s. Cast more fireballs!",
+  "message.dilucarmor.ready": "Dawn Phoenix is ready!",
+  "hud.dilucarmor.title": "DILUC / DAWN",
+  "hud.dilucarmor.fire_ready": "[%s] Fireball: ready",
+  "hud.dilucarmor.fire_cooldown": "[%s] Fireball: %ss",
+  "hud.dilucarmor.phoenix_ready": "[%s] PHOENIX READY",
+  "hud.dilucarmor.phoenix_cooldown": "[%s] Phoenix: %ss",
+  "hud.dilucarmor.charge": "[%s] Phoenix charge: %s/%s",
+  "death.attack.diluc_flame": "%1$s was consumed by dawnfire",
+  "death.attack.diluc_flame.player": "%1$s was consumed by %2$s's dawnfire",
+  "death.attack.diluc_flame.item": "%1$s was consumed by %2$s's dawnfire using %3$s"
+}

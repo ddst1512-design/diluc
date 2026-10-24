@@ -1,0 +1,7 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "category":"equipment",
+  "pattern":["LRL","L L","L L"],
+  "key":{"L":{"item":"minecraft:leather"},"R":{"item":"minecraft:red_dye"}},
+  "result":{"id":"dilucarmor:diluc_trousers","count":1}
+}

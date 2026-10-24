@@ -1,0 +1,10 @@
+Gradle wrapper scripts and gradle/wrapper files are copied unmodified from
+NeoForgeMDKs/MDK-1.21.1-ModDevGradle, downloaded during project creation.
+
+The wrapper scripts contain their upstream copyright/license notices and are
+licensed under the Apache License, Version 2.0. Gradle is a third-party build
+tool, not part of Minecraft or this mod. The wrapper downloads its distribution
+on first use. See the included Gradle wrapper scripts for the license notice.
+
+Source template: https://github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle
+Gradle license: https://www.apache.org/licenses/LICENSE-2.0
